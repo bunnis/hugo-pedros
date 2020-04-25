@@ -59,9 +59,9 @@ icon = "fas fa-file-alt"
 name = "Citrix Blog Post"
 url = "https://www.citrix.com/blogs/2019/10/02/customizing-citrix-adc-to-meet-your-needs/"
 
-[params.fathomAnalytics]
-siteID = "ABCDE"
-serverURL = "analytics.example.com"
+#[params.fathomAnalytics]
+#siteID = "ABCDE"
+#serverURL = "analytics.example.com"
 
 [languages]
 
