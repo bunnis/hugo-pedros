@@ -1,5 +1,5 @@
 title = "johndoe"
-baseurl = "http://www.example.com"
+baseurl = "https://hugo-pedros-366e8.netlify.app"
 languagecode = "en"
 defaultcontentlanguage = "en"
 theme = "hugo-coder"
