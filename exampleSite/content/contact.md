@@ -2,5 +2,6 @@
 title: Contact
 slug: contact
 ---
+**Email:** coelhop24@gmail.com
 
-Follow me, @johndoe.
+This is the easiest way to reach out and I respond pretty quick.
