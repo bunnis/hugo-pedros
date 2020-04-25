@@ -49,7 +49,7 @@ weight = 3
 
 [[params.social]]
 name = "Cisco Blog Post"
-icon = "fas fa-file"
+icon = "fas fa-pencil-alt"
 weight = 4
 url = "https://blogs.cisco.com/cloud/fog-can-help-shape-the-future-of-iot"
 
