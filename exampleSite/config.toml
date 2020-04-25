@@ -86,39 +86,6 @@ name = "Contact me"
 url = "contact/"
 weight = 5
 
-[languages.pt-br]
-languagename = "Português"
-title = "pedros"
-
-[languages.pt-br.params]
-author = "Pedro Silva"
-info = "SecOps Engineer"
-description = "Pagina pessoal"
-keywords = "blog,developer,pessoal"
-footercontent = "Knowledge is power."
-
-[languages.pt-br.menu]
-
-[[languages.pt-br.menu.main]]
-name = "Sobre"
-url = "about/"
-weight = 1
-
-[[languages.pt-br.menu.main]]
-name = "Blog"
-url = "posts/"
-weight = 2
-
-[[languages.pt-br.menu.main]]
-name = "Projectos"
-url = "projects/"
-weight = 3
-
-[[languages.pt-br.menu.main]]
-name = "Contacto"
-url = "contact/"
-weight = 5
-
 [taxonomies]
 category = "categories"
 series = "series"
