@@ -17,55 +17,47 @@ colorscheme = "auto"
 maxSeeAlsoItems = 5
 rtl = false
 keywords = "blog,developer,personal"
-author = "John Doe"
-info = "Full Stack DevOps and Magician"
+author = "Pedro Silva"
+info = "SecOps Engineer"
 custom_css = []
 avatarurl = "images/avatar.jpg"
 custom_js = []
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
 hideCredits = false
-since = 2019
-description = "John Doe's personal website"
+since = ""
+description = "Pedro's personal page"
 hideFooter = false
-footercontent = "Enter a text here."
+footercontent = "Knowledge is power."
 
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fab fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fab fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://github.com/bunnis/"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fab fa-linkedin"
+weight = 2
+url = "https://www.linkedin.com/in/pedrosilva24/"
+
+[[params.social]]
+icon = "fa-stack-overflow"
+name = "Stack Overflow"
+url = "https://stackoverflow.com/users/2141867/virgula24"
+weight = 3
+
+[[params.social]]
+name = "Cisco Blog Post"
+icon = "fa-file-text"
 weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://blogs.cisco.com/cloud/fog-can-help-shape-the-future-of-iot"
 
 [[params.social]]
-name = "Medium"
-icon = "fab fa-medium"
 weight = 5
-url = "https://medium.com/@johndoe"
-
-[[params.social]]
-name = "RSS"
-icon = "fas fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+icon = "fa-file-text"
+name = "Citrix Blog Post"
+url = "https://www.citrix.com/blogs/2019/10/02/customizing-citrix-adc-to-meet-your-needs/"
 
 [params.fathomAnalytics]
 siteID = "ABCDE"
@@ -100,14 +92,14 @@ weight = 5
 
 [languages.pt-br]
 languagename = "Português"
-title = "João Ninguém"
+title = "Pedro Silva"
 
 [languages.pt-br.params]
-author = "João Ninguém"
-info = "Full Stack DevOps e Mágico"
-description = "Sítio pessoal de João Ninguém"
-keywords = "blog,desenvolvedor,pessoal"
-footercontent = "Coloque algum texto aqui."
+author = "Pedro Silva"
+info = "SecOps Engineer"
+description = "Pagina pessoal"
+keywords = "blog,developer,pessoal"
+footercontent = "Knowledge is power."
 
 [languages.pt-br.menu]
 
