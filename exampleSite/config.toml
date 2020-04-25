@@ -17,7 +17,7 @@ colorscheme = "auto"
 maxSeeAlsoItems = 5
 rtl = false
 keywords = "blog,developer,personal"
-author = "Pedro Silva"
+author = "pedros"
 info = "SecOps Engineer"
 custom_css = []
 avatarurl = "images/avatar.jpg"
@@ -58,10 +58,6 @@ weight = 5
 icon = "fas fa-file-alt"
 name = "Citrix Blog Post"
 url = "https://www.citrix.com/blogs/2019/10/02/customizing-citrix-adc-to-meet-your-needs/"
-
-#[params.fathomAnalytics]
-#siteID = "ABCDE"
-#serverURL = "analytics.example.com"
 
 [languages]
 
@@ -114,12 +110,12 @@ url = "posts/"
 weight = 2
 
 [[languages.pt-br.menu.main]]
-name = "Projetos"
+name = "Projectos"
 url = "projects/"
 weight = 3
 
 [[languages.pt-br.menu.main]]
-name = "Contato"
+name = "Contacto"
 url = "contact/"
 weight = 5
 
