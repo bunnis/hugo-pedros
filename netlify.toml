@@ -1,6 +1,6 @@
 [build]
 publish = "demo/public"
-command = "./stackbit-build.sh"
+command = "cd exampleSite && hugo --themesDir=../.. --baseURL $URL"
 
 [context.production.environment]
 HUGO_VERSION = "0.54.0"
